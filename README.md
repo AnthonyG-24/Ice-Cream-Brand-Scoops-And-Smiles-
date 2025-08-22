@@ -32,3 +32,5 @@ Scoops & Smiles is a fictional ice cream shop website designed to showcase moder
 * **GSAP (GreenSock)** - Advanced animations and timeline control
 * **Font Awesome** - Icon system for UI elements
 * **Font Share** - Custom typography 
+
+#Website: scoopsandsmilesparlors.netlify.app
